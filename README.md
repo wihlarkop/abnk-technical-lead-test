@@ -1,1 +1,0 @@
-# abnk-technical-lead-test

@@ -1,0 +1,12 @@
+[project]
+name = "django-2024"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.11"
+dependencies = [
+    "djangorestframework>=3.15.2",
+    "jwcrypto==1.5.5",
+    "pytest==8.1.1",
+    "requests==2.32.0",
+    "responses==0.23.3",
+]
